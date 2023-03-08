@@ -7,7 +7,7 @@ We realized that all of us have vastly different backgrounds, but what brought u
 CultiDress is an interactive game that allows users to click on different types of clothes to put on their avatars. When the user finishes dressing up their avatar, the game will direct the user to a little page that explains the culture and history of the clothes their avatar wore.
 
 # How we built it
-JavaFX, Google Cloud, & mySQL!
+We built this app starting off with some sketches of the UI. We created a model for the database we would use for keeping track of users and the characters they created. JavaFX was used for the graphical interface; the backend methods were coded in Java. We used MySQL for the creation of the database, and Google Cloud to host the server for that database. Models were created using Blender.
 
 # Challenges we ran into
 A lot of packages once supported by JavaFX don't run on it anymore; we had some difficulty importing 3d models and getting JavaFX to work on newer versions of Java.
